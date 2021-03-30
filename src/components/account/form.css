@@ -1,0 +1,13 @@
+.loginbtn{
+    background-color: rgb(81, 81, 185);
+    border-radius: 20rem;
+}
+.signupbtn{
+    background-color: aqua;
+}
+.contain{
+    text-align: center;
+}
+.username .password{
+border-radius: 10rem;
+}
